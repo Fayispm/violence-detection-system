@@ -1,0 +1,7 @@
+.venv/
+dataset/
+*.mp4
+*.h5
+*.pt
+*.pth
+__pycache__/
