@@ -149,7 +149,7 @@ Example classes:
 
 ## Author
 
-Muhammed Fayiz
+Muhammed Fayis
 
 LinkedIn: https://www.linkedin.com/in/muhammed-fayis-4a5aa3321/
 
